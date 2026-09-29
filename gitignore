@@ -1,0 +1,14 @@
+# Archivos que genera build.bat
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# Certificados y claves privadas: nunca subirlos
+*.pem
+*.key
+
+# Registros y ajustes personales
+*.log
+ajustes.json
